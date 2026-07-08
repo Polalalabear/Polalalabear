@@ -1,0 +1,44 @@
+<svg width="880" height="310" viewBox="0 0 880 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Activity overview</title>
+  <desc id="desc">GitHub activity overview showing commits, issues, pull requests, and code review percentages.</desc>
+  <style>
+    .label { font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #e6edf3; }
+    .muted { font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8b949e; }
+    .small { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #8b949e; }
+    .link { fill: #2f81f7; }
+  </style>
+  <rect x="1" y="1" width="878" height="308" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text x="24" y="48" class="label">Activity overview</text>
+
+  <g transform="translate(28 92)">
+    <path d="M0 4h16v16H3v10H0V4Z" fill="#8b949e"/>
+    <path d="M5 24h5v5H5v-5Zm9 0h5v5h-5v-5Z" fill="#8b949e"/>
+    <text x="34" y="20" class="label">Contributed to</text>
+    <text x="177" y="20" class="label link">personal repositories</text>
+    <text x="34" y="54" class="label">and open-source projects</text>
+  </g>
+
+  <line x1="438" y1="70" x2="438" y2="268" stroke="#30363d" stroke-width="2"/>
+
+  <g transform="translate(438 166)">
+    <polygon points="-100,0 0,-28 58,0 0,42" fill="#238636" opacity="0.72"/>
+    <line x1="-150" y1="0" x2="150" y2="0" stroke="#56d364" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="-100" x2="0" y2="100" stroke="#56d364" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="-100" cy="0" r="6" fill="#0d1117" stroke="#56d364" stroke-width="4"/>
+    <circle cx="58" cy="0" r="6" fill="#0d1117" stroke="#56d364" stroke-width="4"/>
+    <circle cx="0" cy="42" r="6" fill="#0d1117" stroke="#56d364" stroke-width="4"/>
+    <circle cx="0" cy="-28" r="6" fill="#0d1117" stroke="#56d364" stroke-width="4"/>
+
+    <text x="0" y="-124" text-anchor="middle" class="muted">11%</text>
+    <text x="0" y="-98" text-anchor="middle" class="small">Code review</text>
+
+    <text x="175" y="-2" text-anchor="middle" class="muted">26%</text>
+    <text x="175" y="24" text-anchor="middle" class="small">Issues</text>
+
+    <text x="0" y="138" text-anchor="middle" class="muted">19%</text>
+    <text x="0" y="164" text-anchor="middle" class="small">Pull requests</text>
+
+    <text x="-145" y="-2" text-anchor="middle" class="muted">44%</text>
+    <text x="-145" y="24" text-anchor="middle" class="small">Commits</text>
+  </g>
+</svg>
