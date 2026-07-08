@@ -13,9 +13,3 @@ I build small experiments, course projects, and tools that connect code, vision,
 ## Visitors
 
 ![Visitor counter](https://count.getloli.com/@Polalalabear?name=Polalalabear&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/polalabear">
-    <img src="assets/buy-me-a-coffee.svg" alt="Buy me a coffee" />
-  </a>
-</p>
