@@ -4,7 +4,7 @@ I build small experiments, course projects, and tools that connect code, vision,
 
 ## Coding Time
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Polalalabear&theme=github_dark&layout=compact&hide_border=true)
+![Coding time stats](assets/wakatime-stats.svg)
 
 ## Contributions
 
@@ -16,6 +16,6 @@ I build small experiments, course projects, and tools that connect code, vision,
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/polalabear">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=polalabear&button_colour=ff813f&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a coffee" />
+    <img src="assets/buy-me-a-coffee.svg" alt="Buy me a coffee" />
   </a>
 </p>

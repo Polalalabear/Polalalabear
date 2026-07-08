@@ -1,0 +1,37 @@
+<svg width="760" height="140" viewBox="0 0 760 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Coding time language stats</title>
+  <desc id="desc">A dark coding time card with language percentages.</desc>
+  <style>
+    .mono { font: 700 18px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; fill: #e6edf3; }
+    .bar-bg { fill: #1d2630; }
+    .bar { fill: #e6edf3; }
+  </style>
+  <rect width="760" height="140" rx="8" fill="#0d1117"/>
+  <g class="mono">
+    <text x="18" y="30">Markdown</text>
+    <text x="120" y="30">2 hrs 25 mins</text>
+    <text x="610" y="30">34.69 %</text>
+
+    <text x="18" y="58">TeX</text>
+    <text x="120" y="58">2 hrs</text>
+    <text x="610" y="58">28.62 %</text>
+
+    <text x="18" y="86">HTML</text>
+    <text x="120" y="86">1 hr 39 mins</text>
+    <text x="610" y="86">23.55 %</text>
+
+    <text x="18" y="114">Astro</text>
+    <text x="120" y="114">24 mins</text>
+    <text x="610" y="114">05.77 %</text>
+  </g>
+  <g transform="translate(360 13)">
+    <rect class="bar-bg" x="0" y="0" width="260" height="18" rx="2"/>
+    <rect class="bar" x="0" y="0" width="90" height="18" rx="2"/>
+    <rect class="bar-bg" x="0" y="28" width="260" height="18" rx="2"/>
+    <rect class="bar" x="0" y="28" width="74" height="18" rx="2"/>
+    <rect class="bar-bg" x="0" y="56" width="260" height="18" rx="2"/>
+    <rect class="bar" x="0" y="56" width="61" height="18" rx="2"/>
+    <rect class="bar-bg" x="0" y="84" width="260" height="18" rx="2"/>
+    <rect class="bar" x="0" y="84" width="15" height="18" rx="2"/>
+  </g>
+</svg>
